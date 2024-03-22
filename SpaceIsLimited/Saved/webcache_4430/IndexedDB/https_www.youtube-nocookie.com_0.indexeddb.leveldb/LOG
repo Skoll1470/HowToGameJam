@@ -1,0 +1,6 @@
+2024/03/22-12:30:20.450 33a0 Creating DB C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/03/22-12:30:20.456 33a0 Reusing MANIFEST C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/22-12:32:37.976 4430 Level-0 table #5: started
+2024/03/22-12:32:37.980 4430 Level-0 table #5: 1167 bytes OK
+2024/03/22-12:32:37.981 4430 Delete type=0 #3
+2024/03/22-12:32:37.982 4430 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
