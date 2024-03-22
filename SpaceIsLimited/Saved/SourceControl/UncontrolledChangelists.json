@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/ThirdPerson/Input/Actions/IA_CameraSwitch.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
+				"C:/Users/thoma/OneDrive/Bureau/Work/HowToGameJam/SpaceIsLimited/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+			]
+		}
+	]
+}
