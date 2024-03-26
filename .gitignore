@@ -1,3 +1,23 @@
 
 SpaceIsLimited/Content/SciFiMuseum/Maps/blockout_2.umap
 SpaceIsLimited/Content/SciFiMuseum/Maps/blockout_2_BuiltData.uasset
+SpaceIsLimited/Builds/Astra_Space_Windows_Build.zip
+SpaceIsLimited/Build/Windows/FileOpenOrder/EditorOpenOrder.log
+SpaceIsLimited/Build/Windows/FileOpenOrder/CookerOpenOrder.log
+SpaceIsLimited/Binaries/Win64/tbbmalloc.pdb
+SpaceIsLimited/Binaries/Win64/tbbmalloc.dll
+SpaceIsLimited/Binaries/Win64/tbb12.dll
+SpaceIsLimited/Binaries/Win64/tbb.pdb
+SpaceIsLimited/Binaries/Win64/tbb.dll
+SpaceIsLimited/Binaries/Win64/SpaceIsLimited-Win64-Shipping.target
+SpaceIsLimited/Binaries/Win64/SpaceIsLimited-Win64-Shipping.pdb
+SpaceIsLimited/Binaries/Win64/SpaceIsLimited-Win64-Shipping.lib
+SpaceIsLimited/Binaries/Win64/SpaceIsLimited-Win64-Shipping.exp
+SpaceIsLimited/Binaries/Win64/SpaceIsLimited-Win64-Shipping.exe
+SpaceIsLimited/Binaries/Win64/OpenImageDenoise.dll
+SpaceIsLimited/Binaries/Win64/D3D12/D3D12Core.dll
+SpaceIsLimited/Intermediate/Build/Win64/x64/SpaceIsLimited/Shipping/Core/SharedPCH.Core.Cpp17.h.pch
+SpaceIsLimited/Saved/Cooked/Windows/SpaceIsLimited/Content/SciFiMuseum/Maps/blockout_2_BuiltData.uexp
+*.ushaderbytecode
+SpaceIsLimited/Saved/StagedBuilds/Windows/SpaceIsLimited/Binaries/Win64/SpaceIsLimited-Win64-Shipping.exe
+SpaceIsLimited/Saved/StagedBuilds/Windows/SpaceIsLimited/Content/Paks/SpaceIsLimited-Windows.ucas

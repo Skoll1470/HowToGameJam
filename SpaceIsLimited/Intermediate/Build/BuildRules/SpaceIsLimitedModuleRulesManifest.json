@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\thoma\\OneDrive\\Bureau\\Work\\HowToGameJam\\SpaceIsLimited\\Intermediate\\Source\\SpaceIsLimited.Build.cs",
+		"C:\\Users\\thoma\\OneDrive\\Bureau\\Work\\HowToGameJam\\SpaceIsLimited\\Intermediate\\Source\\SpaceIsLimited.Target.cs",
+		"C:\\Users\\thoma\\OneDrive\\Bureau\\Work\\HowToGameJam\\SpaceIsLimited\\Intermediate\\Source\\SpaceIsLimitedClient.Target.cs",
+		"C:\\Users\\thoma\\OneDrive\\Bureau\\Work\\HowToGameJam\\SpaceIsLimited\\Intermediate\\Source\\SpaceIsLimitedEditor.Target.cs",
+		"C:\\Users\\thoma\\OneDrive\\Bureau\\Work\\HowToGameJam\\SpaceIsLimited\\Intermediate\\Source\\SpaceIsLimitedServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
