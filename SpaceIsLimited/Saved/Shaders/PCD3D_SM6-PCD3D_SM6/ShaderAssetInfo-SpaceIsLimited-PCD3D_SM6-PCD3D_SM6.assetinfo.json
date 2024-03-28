@@ -36,6 +36,7 @@
 		{
 			"ShaderMapHash": "D51BD2064FB32E7D4312C2501DB87342F101186B",
 			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
 				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
 			]
 		},
@@ -96,18 +97,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C0A9C10DB4E9CE1F07C21DB6984EE1CE0FFE1A53",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
-			]
-		},
-		{
-			"ShaderMapHash": "1F94CE0D030287D205289FBBA79074AB2C5A0243",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Oak"
-			]
-		},
-		{
 			"ShaderMapHash": "A9D8B20E030DE92651270945DF9C0D61583975E6",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Trans",
@@ -118,12 +107,6 @@
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ExploD_Trans_subUV_mobile",
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_subUV",
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_Trans"
-			]
-		},
-		{
-			"ShaderMapHash": "BC36C00E6E943CC805D749C2FFAFA6CA17C6E220",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Burst"
 			]
 		},
 		{
@@ -193,12 +176,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EABE3A15A685795EE08764F13EC88083AB219C54",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Steel"
-			]
-		},
-		{
 			"ShaderMapHash": "7D781519D2389EB2CBEC166C9F21956320EC7224",
 			"Assets": [
 				"/Game/SpaceshipInterior/Materials/M_Scifi_Signs_Decal_04"
@@ -214,12 +191,6 @@
 			"ShaderMapHash": "885879191F5577AA86EFE68917D93516012F5025",
 			"Assets": [
 				"/Game/SciFiMuseum/Maps/Istvan/crystal/Crystal_LP_Base_Color_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "DB13CA193BD7514020B7A810FF8A12A87A0F3528",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
 			]
 		},
 		{
@@ -330,14 +301,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9AAD532217B7F91221EED44BCB53B167B08C045B",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
-			]
-		},
-		{
 			"ShaderMapHash": "3D7F1823149076C7796112E2FFCFDEC1736037A6",
 			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Characters/Mannequins/Materials/M_Mannequin"
 			]
 		},
@@ -411,21 +377,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A42A0B2B8AC1731E95AAC3D4D54A00F8DDE6FD52",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
-			]
-		},
-		{
 			"ShaderMapHash": "27C5372B676D87C142D3CEA7AFA1CEE0283FD3EC",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "56410B2C771A0C3F8FFA8BBAE5FE5EBE09AB26D9",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
 			]
 		},
 		{
@@ -508,12 +462,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "503392387ABDC89DF95C33AD6490D5CA802CBA88",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
-			]
-		},
-		{
 			"ShaderMapHash": "B970CB38921E177A270CD3F10B2CA1C4183D93C7",
 			"Assets": [
 				"/Game/Characters/Astra/SkeletalMesh/Ch48_body",
@@ -558,33 +506,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6CA9AB3B009BCB1DAF07F9CF3AC7D8B1FE58A39C",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
-			]
-		},
-		{
 			"ShaderMapHash": "7F35963CEB67587F56938EF8BEACD1B1E3E4C037",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
-			]
-		},
-		{
-			"ShaderMapHash": "555D553E08B1081967760DDFD5E773334D5464EE",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Tech_Panel"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
 			"ShaderMapHash": "88071B40E876E01FCE777E2A59811802B9469F78",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Base_Emis_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "A78A7940D1340AE87919447D3EF5D88A5F0047F7",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Spark"
 			]
 		},
 		{
@@ -597,18 +528,6 @@
 			"ShaderMapHash": "C10027419E83EF1E4AF670164E74663D30980C6B",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
-			]
-		},
-		{
-			"ShaderMapHash": "CA578F426319F56349E3E40748295BD6F4F72E02",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
-			]
-		},
-		{
-			"ShaderMapHash": "B8F596421D9C881ED56F5306B3A17384E9B2CE8B",
-			"Assets": [
-				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
 			]
 		},
 		{
@@ -644,8 +563,7 @@
 		{
 			"ShaderMapHash": "81954747C8D2D9698E891784210FE1DDBFFC7D3D",
 			"Assets": [
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
-				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
 			]
 		},
 		{
@@ -680,27 +598,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B1E9B44A0EB4BE937B73F93F64B44161AA0A41E9",
+			"ShaderMapHash": "C1FDD54AE8F73721163493DD961795D2A40BDD87",
 			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "F78C394BEBACA02EBF0DF90D3E0B1BD2DD499FEE",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceTrap_Shard"
-			]
-		},
-		{
-			"ShaderMapHash": "A43C784BAF0105E2863EB391042D98630DB8963C",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Bush"
-			]
-		},
-		{
-			"ShaderMapHash": "B3B0194ED03D222DF0368A828ACF5C51669ED66A",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_TableRound"
 			]
 		},
 		{
@@ -713,12 +619,6 @@
 			"ShaderMapHash": "31A1225006CE614E67BF9D5FD0BB1A70F4573753",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "41A8DC50FA2DF9B630F524C46279EA9E94BBAA03",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Concrete_Grime"
 			]
 		},
 		{
@@ -749,12 +649,6 @@
 			"ShaderMapHash": "55F19053AA59CA70DE522F407100C218DCF732E8",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
-			]
-		},
-		{
-			"ShaderMapHash": "C5D0E653F0A8D4883A1D8E0005687FDF62E26AF4",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Ground_Grass"
 			]
 		},
 		{
@@ -864,18 +758,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "141A465E8BBCAD2D7B26FB43E454A7848C0CA518",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Concrete_Tiles"
-			]
-		},
-		{
-			"ShaderMapHash": "B2855C5EB20836D917F06965C982ECDBAA7FB931",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Chair"
-			]
-		},
-		{
 			"ShaderMapHash": "24457D5E1549FA8408A216D5B658E0087D5C90D1",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
@@ -940,12 +822,6 @@
 			"ShaderMapHash": "506C0267F57C00375BD382A6941CD9289C2AE101",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E9211468AE496A62279D0BB4B5D2561B9913D5ED",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
 			]
 		},
 		{
@@ -1035,13 +911,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B3073175CFE716B1F27640ECDD41DAFD5EA0E351",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
-				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
-			]
-		},
-		{
 			"ShaderMapHash": "D6673E75537589288982609A29CD14D0654284C1",
 			"Assets": [
 				"/Game/SciFiMuseum/Maps/louis/Cabinets/Cabinets/Textures/Cabinets_BaseColor_Mat"
@@ -1114,12 +983,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "02994F7B576A07379142FEA986CA523EBC605BCC",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
-			]
-		},
-		{
 			"ShaderMapHash": "134F697B875C37C82CE02B6E47FEAD79EDA8976D",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
@@ -1139,12 +1002,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2B4AF67E78ED49C0062B67E8B483AA780EDA1419",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Chrome"
-			]
-		},
-		{
 			"ShaderMapHash": "B1830C7F48830F4DD3A3E0D5967C2684CBAA092B",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_2sided_meshEmit"
@@ -1154,12 +1011,6 @@
 			"ShaderMapHash": "7A88B57F21C8D74C013161754093EAA18A8B1574",
 			"Assets": [
 				"/Game/SciFiMuseum/Maps/Crystal_Engine"
-			]
-		},
-		{
-			"ShaderMapHash": "69F5918059C1A0F70455148BE20C2C7EBB8CC89B",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
 			]
 		},
 		{
@@ -1211,18 +1062,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5FF8D385F565BD87FD6A51E08536F154E2AAE638",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
-			]
-		},
-		{
-			"ShaderMapHash": "D2B0BF860FD5FE36601FA03D04A421A35354682C",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Sandstone"
-			]
-		},
-		{
 			"ShaderMapHash": "729008888BCB1325FF881A5D80400BCE9FD79AC5",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_Solid"
@@ -1236,12 +1075,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7C8A7788BA084395DFBC32E810417C40AE1619D7",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Pine"
-			]
-		},
-		{
 			"ShaderMapHash": "0DE3ED89143AC87012618475707E251BC4B510F6",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
@@ -1251,12 +1084,6 @@
 			"ShaderMapHash": "BE4B758AF27F3733C684B70AC84844BB227D4631",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2sided"
-			]
-		},
-		{
-			"ShaderMapHash": "8C25E18A9240A0402927B5CE980D749D81EEE578",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Water_Lake"
 			]
 		},
 		{
@@ -1283,12 +1110,6 @@
 			"ShaderMapHash": "72BBCF8D0765FAAE21ECF9F272CCBFDC90B178DC",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Materials/M_PLains_FloorStone"
-			]
-		},
-		{
-			"ShaderMapHash": "B7617F8E34537F6B42D430EF96DB3C05D75C6145",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
 			]
 		},
 		{
@@ -1358,12 +1179,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "84B4CC946244A2EA413A25D499476A3C375C7AA3",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Floor"
-			]
-		},
-		{
 			"ShaderMapHash": "F3866395C61750383342EF23F1A668A2B1814D1D",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
@@ -1382,21 +1197,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0FB1219732CF9B2EA3D5D9D6C7596CE549F4BDCD",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Ground_Moss"
-			]
-		},
-		{
 			"ShaderMapHash": "C491719798C8143657C78A117890C57672BC6D97",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ReflectArrow_Grad"
-			]
-		},
-		{
-			"ShaderMapHash": "2D71E0986CCED997E647F0747D8329ABF500BFA7",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_StatueGlass"
 			]
 		},
 		{
@@ -1412,21 +1215,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D2EF6A99D22DC7BCC3E6247FDBD6062D9273D860",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
-			]
-		},
-		{
 			"ShaderMapHash": "1FD4C299834CD2994C8FBF15EF707C90FE7F91B5",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "745CDB994FEF829A5F690C823588556904930678",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
 			]
 		},
 		{
@@ -1472,18 +1263,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "15D7BE9D38B92462CA1E3C789E6862A00CEA4D00",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Slate"
-			]
-		},
-		{
-			"ShaderMapHash": "A749FF9DF165A77BF29A89F920417B96AF3B4196",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/m_flare_01"
-			]
-		},
-		{
 			"ShaderMapHash": "9687029F174BBFCBC557DEA050C44DA1F84A482C",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans",
@@ -1513,12 +1292,6 @@
 			"ShaderMapHash": "BC449EA241C52B6E791A621E3CCDC5C975348F2E",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealBeam_Trans"
-			]
-		},
-		{
-			"ShaderMapHash": "210028A376CF8A4BE14F311B0CBC913ED3C6ADCD",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
 			]
 		},
 		{
@@ -1571,18 +1344,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0743EDA71F0D5819A511AF969DC30B1CD3309AC2",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Lamp"
-			]
-		},
-		{
-			"ShaderMapHash": "70DE48A871777628EED2C1FA4015CF7B7DA0E0C0",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Water_Ocean"
-			]
-		},
-		{
 			"ShaderMapHash": "83150BAC8A04DF603E6DE1003682CCA2F0EED74F",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_Add_2Sided_Emissive_MESH"
@@ -1607,12 +1368,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "729E65AFA58A25CA7D8D158F73868B7E16AA1C29",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
-			]
-		},
-		{
 			"ShaderMapHash": "893091AFBEADC79FA45DD2A6CF6F7349E7C479E8",
 			"Assets": [
 				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
@@ -1630,12 +1385,6 @@
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky",
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky_Moving",
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky"
-			]
-		},
-		{
-			"ShaderMapHash": "553141B1EDA24D34956C7906317CE78666734FCD",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Rust"
 			]
 		},
 		{
@@ -1705,12 +1454,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "52D757B67EBB97823E04F738697E57AC15C74A60",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Concrete_Poured"
-			]
-		},
-		{
 			"ShaderMapHash": "E9876CB77704611D9F9C4D0C1614C03B8066250D",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeCoals_Fire"
@@ -1719,19 +1462,14 @@
 		{
 			"ShaderMapHash": "85451DB96B514C666767BA7AC366649F319EAD6B",
 			"Assets": [
-				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
 			]
 		},
 		{
 			"ShaderMapHash": "C7DED7B9FF1878C2A45035BC1F3C8691E6D313A4",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Unlit_EndGate"
-			]
-		},
-		{
-			"ShaderMapHash": "A496F4BA142A3B54B4862FA14AD79899CB989204",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
@@ -1754,12 +1492,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A7B27FBC529A7DB0A0AADEA423CDEEF459955AB3",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Frame"
-			]
-		},
-		{
 			"ShaderMapHash": "AD811EBDC3E735D89C1623303F9A66B765138937",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle"
@@ -1769,12 +1501,6 @@
 			"ShaderMapHash": "722A21BD2E5AFF59DB4334FA6B6282DD53E764B7",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Trans"
-			]
-		},
-		{
-			"ShaderMapHash": "9D769DBE8ABFCDAAEEA43A4C1706D4A297F34233",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
 			]
 		},
 		{
@@ -1862,12 +1588,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "97CFC6C654A64F632E7ADE13CC8835AE57FCF64F",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Copper"
-			]
-		},
-		{
 			"ShaderMapHash": "06B000C706169AE34A530A68D9754BC4E33AFCD7",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Environments/Misc/Env_ALL_Artifacts/Materials/M_Env_Health_Terminus"
@@ -1899,27 +1619,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "65C93EC989F72957CA03FDB4B171DC081791388D",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
-			]
-		},
-		{
 			"ShaderMapHash": "D13665C9F83C8C0A765220A4C549F71832B618B8",
 			"Assets": [
 				"/Game/SciFiMuseum/Maps/tom/Plane001NormalsMap_Mat1"
-			]
-		},
-		{
-			"ShaderMapHash": "2362BAC997F511FA12483BB506FB790330E01946",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_AssetPlatform"
-			]
-		},
-		{
-			"ShaderMapHash": "C436CBC9CC7D76F0833A856D1092CACFB1AF6F98",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
 			]
 		},
 		{
@@ -1953,12 +1655,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "41C44CCCCBAC76AEDA401D44278C406AE85BA91C",
-			"Assets": [
-				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
-			]
-		},
-		{
 			"ShaderMapHash": "693893CC93010D6831756CA6AEF291414A48C7EF",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Plate_Floor_2_Ice"
@@ -1974,24 +1670,6 @@
 			"ShaderMapHash": "79AC34CFCE80770EBC97971E1E5341D17515A65E",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFireBase_MeshEmit"
-			]
-		},
-		{
-			"ShaderMapHash": "460D52CFB85D44838FCFC298A94DE65E8000544D",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Gold"
-			]
-		},
-		{
-			"ShaderMapHash": "F5FC75CFB921FA8AA4481EB30D4E37499F4063B7",
-			"Assets": [
-				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "A938CBCF7594E1A0307441E8BDA1C6358C57916B",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Shelf"
 			]
 		},
 		{
@@ -2124,33 +1802,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "716821D54FD4159E5B083DC2C76E87AB5C6C835D",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Basalt"
-			]
-		},
-		{
 			"ShaderMapHash": "25887CD507993921031D22FABA8546304269ADB5",
 			"Assets": [
 				"/Game/SpaceshipInterior/Materials/M_Scifi_Stripe_Decal_02"
 			]
 		},
 		{
-			"ShaderMapHash": "7E06FDD57452EF4D9FBE1877BF1552CFB854DF90",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Brick_Clay_New"
-			]
-		},
-		{
 			"ShaderMapHash": "FF302BD6FB4A7497EDB42B71BB61B75ED0E79F40",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
-			]
-		},
-		{
-			"ShaderMapHash": "B868D7D6D79235F655ED00ECA47DBB0104EE6A35",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Ground_Gravel"
 			]
 		},
 		{
@@ -2163,12 +1823,6 @@
 			"ShaderMapHash": "DFEF33D895145F410502B90CCFE40BCFE1D748CB",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshMat"
-			]
-		},
-		{
-			"ShaderMapHash": "4CF50DD9D0F21F5DA2F952412E26FC2BCB33ED62",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
 			]
 		},
 		{
@@ -2209,27 +1863,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4EFC18DF7B50D914F520ECF925477A2A27B0713A",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Concrete_Panels"
-			]
-		},
-		{
 			"ShaderMapHash": "0CCBB5DFB999F0B47E488D641D8DB058EE6337A9",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightSconces_Glow"
-			]
-		},
-		{
-			"ShaderMapHash": "853718E108D120F41EC98C75EC456ED12AEE8FA2",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
-			]
-		},
-		{
-			"ShaderMapHash": "C0C682E110FDB92082974000584CA37601DF27C7",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
 			]
 		},
 		{
@@ -2264,18 +1900,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4013A2E6D97A810589420F772CAEC5F0CF9DB613",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Rock"
-			]
-		},
-		{
-			"ShaderMapHash": "344DA5E6F59BA7DED18F8A9444F66F6CFC168792",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Statue"
-			]
-		},
-		{
 			"ShaderMapHash": "05ECF9E6A73C65967494F1C5FD2332487982675E",
 			"Assets": [
 				"/Game/SpaceshipInterior/Materials/M_Scifi_Floor_03"
@@ -2303,12 +1927,6 @@
 			"ShaderMapHash": "8A22DBEB814E4B44C94FAA616BC6EBE1D7C25BB7",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "F31EB6EC20C38F4AA8FF5C3C8D5FD563FDA8525C",
-			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
 			]
 		},
 		{
@@ -2365,18 +1983,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "93328FF26A864954EC1EE53263CD85539DF3AE28",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Door"
-			]
-		},
-		{
-			"ShaderMapHash": "7612B9F3E791B4010DD1B4268255095CB69C9A01",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
-			]
-		},
-		{
 			"ShaderMapHash": "337458F42E7C420F7C318FC2AB86BAD770B6B5E0",
 			"Assets": [
 				"/Game/SpaceshipInterior/Materials/M_Scifi_Signs_Decal_03"
@@ -2390,18 +1996,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8E7386F4332421623437DBE655AEE0EDAADD8162",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Walnut"
-			]
-		},
-		{
-			"ShaderMapHash": "E2FDADF49D1006489A9F404E2C1FF9FDF6BD5FD2",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
-			]
-		},
-		{
 			"ShaderMapHash": "551AFBF4D1D601DFB23FFF7BF50AFDFC17A7D53B",
 			"Assets": [
 				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_Mesh_Unlit_01"
@@ -2411,12 +2005,6 @@
 			"ShaderMapHash": "9D73A6F5BA8FC6186D6384E9EDF21994A2075136",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
-			]
-		},
-		{
-			"ShaderMapHash": "29F350F638B326573F0470A3E82F814006039F0A",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
 			]
 		},
 		{
@@ -2458,8 +2046,7 @@
 		{
 			"ShaderMapHash": "33F191FB8FE0F5A5A8A3BDBE105690CEEABADDFE",
 			"Assets": [
-				"/Game/SpaceshipInterior/Materials/M_Scifi_Glass",
-				"/Game/StarterContent/Materials/M_Glass"
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Glass"
 			]
 		},
 		{
