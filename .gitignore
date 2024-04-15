@@ -117,3 +117,7 @@ Builds/Windows/SpaceIsLimited/Content/Paks/global.utoc
 Builds/Windows/SpaceIsLimited/Content/Paks/SpaceIsLimited-Windows.pak
 Builds/Windows/SpaceIsLimited/Content/Paks/SpaceIsLimited-Windows.ucas
 Builds/Windows/SpaceIsLimited/Content/Paks/SpaceIsLimited-Windows.utoc
+*.zip
+/Builds
+/Builds
+*.zip
